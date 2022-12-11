@@ -1,52 +1,36 @@
 {
   "project_info": {
-    "project_number": "91082552082",
-    "firebase_url": "https://smsfirebaseproject-60952.firebaseio.com",
-    "project_id": "smsfirebaseproject-60952",
-    "storage_bucket": "smsfirebaseproject-60952.appspot.com"
+    "project_number": "1031828586647",
+    "project_id": "dash-6dc18",
+    "storage_bucket": "dash-6dc18.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:91082552082:android:046e55af98d7929e",
+        "mobilesdk_app_id": "1:1031828586647:android:7b0241057095a4560029d2",
         "android_client_info": {
-          "package_name": "com.example.ghazi.sms"
+          "package_name": "com.github.muneebwanee.dash.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "91082552082-47mabjpduig0h3di0l1o24eun5jgc284.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.ghazi.sms",
-            "certificate_hash": "168f1d8526db2fe648072de2d234ddf29fc70f5b"
-          }
-        },
-        {
-          "client_id": "91082552082-sgcur0jla9qdpt7ea2b0vjbaggnq827b.apps.googleusercontent.com",
+          "client_id": "1031828586647-17gu8ebc6ruoufbqpps15ou4g8sivbeo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBuSILlqG8j6EW9507Q6uFYUkZgYmUsA_o"
+          "current_key": "AIzaSyB4boqw39tS-7iZYLR7q5SSY-N0pFKAfAE"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "91082552082-sgcur0jla9qdpt7ea2b0vjbaggnq827b.apps.googleusercontent.com",
+              "client_id": "1031828586647-17gu8ebc6ruoufbqpps15ou4g8sivbeo.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
